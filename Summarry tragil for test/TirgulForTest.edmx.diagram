@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="302559923c7448b4a7b62d6cb65a5c54" Name="Diagram1">
+        <EntityTypeShape EntityType="TirgulForTestModel.Customer" Width="1.5" PointX="0.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TirgulForTestModel.CustomerOrder" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TirgulForTestModel.Order" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <AssociationConnector Association="TirgulForTestModel.FK_CustomerOrder_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="TirgulForTestModel.FK_Order_CustomerId" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

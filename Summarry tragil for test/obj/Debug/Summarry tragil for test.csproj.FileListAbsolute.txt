@@ -1,0 +1,18 @@
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\bin\Debug\Summarry tragil for test.exe.config
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\bin\Debug\Summarry tragil for test.exe
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\bin\Debug\Summarry tragil for test.pdb
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\bin\Debug\EntityFramework.dll
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\bin\Debug\FireSharp.dll
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\bin\Debug\RestSharp.dll
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\bin\Debug\EntityFramework.xml
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\bin\Debug\RestSharp.xml
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\obj\Debug\Summarry tragil for test.csprojAssemblyReference.cache
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\obj\Debug\Summarry tragil for test.csproj.CoreCompileInputs.cache
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\obj\Debug\Summarry tragil for test.csproj.CopyComplete
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\obj\Debug\Summarry tragil for test.exe
+C:\Users\talpr\source\repos\TirgulForTest - 15.05.19\Summarry tragil for test\Summarry tragil for test\obj\Debug\Summarry tragil for test.pdb
